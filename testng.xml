@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/Users/aleksandrgnuskin/Documents/QA Automation/TestNG"><classes><class name="testcases.TestCases"><methods><include name="setup"/><include name="testSteps"/><include name="teatDown"/></methods></class></classes></test></suite>
